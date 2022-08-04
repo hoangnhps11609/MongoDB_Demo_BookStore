@@ -1,0 +1,3 @@
+{"_id":{"$oid":"62e8f15eeee431bcb798a46f"},"user_name":"admin","password":"123456","email":"hoang@gmail.com","status":"active"}
+{"_id":{"$oid":"62e8f352eee431bcb798a470"},"user_name":"user","password":"123456","email":"user@gmail.com","hobbies":["Travel","Music","Food"],"status":"active"}
+{"_id":{"$oid":"62e8f532eee431bcb798a471"},"user_name":"hoang","password":"123456","email":"hoang115@gmail.com","status":"inactive","hobbies":["Swimming","Fishing"]}

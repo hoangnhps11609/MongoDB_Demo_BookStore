@@ -1,0 +1,4 @@
+id,user_name,password,email,hobbies,status
+,admin,123456,hoang@gmail.com,,active
+,user,123456,user@gmail.com,"[""Travel"",""Music"",""Food""]",active
+,hoang,123456,hoang115@gmail.com,"[""Swimming"",""Fishing""]",inactive
